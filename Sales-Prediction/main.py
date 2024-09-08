@@ -1,7 +1,7 @@
 # Name Terry Allee
 # Date September 1st, 2024
 # Sales Prediction Programming Project
-# COSC 2409 DNT
+# COSC 1010 DNT
 #
 
 # Variables to hold the sales total and the profit
